@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <!-- Background rounded square -->
+  <rect width="48" height="48" rx="12" fill="url(#bg)"/>
+  <!-- Stylized "A" letterform with a subtle pen nib integrated -->
+  <path d="M14 36L20 18h3l6 18h-3.5l-1.5-5h-5.5l-1.5 5H14zm6.2-8h4.6L27 19.5h-.1L20.2 28z" fill="#fff"/>
+  <!-- AI sparkle dot -->
+  <circle cx="35" cy="14" r="2.5" fill="#A78BFA"/>
+</svg>

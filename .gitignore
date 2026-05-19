@@ -1,0 +1,29 @@
+# Claude Code
+.claude/
+CLAUDE.md
+PROJECT_GUIDE.md
+
+# Environment config
+.env
+.env.docker
+backend/.env
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+venv/
+.venv/
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
